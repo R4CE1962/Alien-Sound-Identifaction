@@ -1,0 +1,38 @@
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+    background: rgb(0, 0, 0);
+}
+
+.header_div
+{
+    background:  black;
+    color: bisque;
+}
+
+.header_div p{
+    color: bisque;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: 3px;
+}
+
+.main_div button
+{
+    margin-top: 30px;
+    width: 130;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: bisque;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: black;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px red;
+}
